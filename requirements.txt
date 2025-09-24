@@ -1,0 +1,13 @@
+# Librerías para manipulación de datos
+numpy
+pandas
+
+# Visualización
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter / Colab
+notebook
